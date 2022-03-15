@@ -58,7 +58,7 @@
     "@next/bundle-analyzer": "^10.2.3",
     "@types/body-scroll-lock": "^2.6.1",
     "@types/cookie": "^0.4.0",
-    "@types/js-cookie": "^2.2.6",
+    "@types/js-cookie": "2.2.7",
     "@types/lodash.debounce": "^4.0.6",
     "@types/lodash.random": "^3.2.6",
     "@types/lodash.throttle": "^4.1.6",
