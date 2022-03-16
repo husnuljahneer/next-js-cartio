@@ -45,7 +45,7 @@
     "react-use-measure": "^2.0.4",
     "stripe": "^8.176.0",
     "swell-js": "^4.0.0-next.0",
-    "swr": "^0.5.6",
+    "swr": "0.5.7",
     "tabbable": "^5.2.0",
     "tailwindcss": "^2.2.2",
     "uuidv4": "^6.2.10"
