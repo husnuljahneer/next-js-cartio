@@ -63,7 +63,7 @@
     "@types/lodash.random": "^3.2.6",
     "@types/lodash.throttle": "^4.1.6",
     "@types/node": "^15.12.4",
-    "@types/react": "^17.0.8",
+    "@types/react": "17.0.50",
     "deepmerge": "^4.2.2",
     "eslint": "^7.31.0",
     "eslint-config-next": "^11.0.1",
