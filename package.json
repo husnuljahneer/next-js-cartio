@@ -25,7 +25,7 @@
     "autoprefixer": "^10.2.6",
     "body-scroll-lock": "^3.1.5",
     "classnames": "^2.3.1",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "email-validator": "^2.0.4",
     "immutability-helper": "^3.1.1",
     "js-cookie": "^2.2.1",
